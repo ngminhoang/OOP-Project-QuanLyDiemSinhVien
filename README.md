@@ -5,6 +5,7 @@
 ## Description:
  - Xây dựng các MasterData như Tài khoản sinh viên, Khoa, Lớp, Môn học, Điểm, ...
  - Xây dựng các lớp DAO chứa CRUD cho các MasterData.
+ - Xây dựng giao diện, bao gồm: giao diện đăng nhập, giao diện cho sinh viên, giao diện cho admin. 
 ## Technical Stack:
 ### DB: SQL Server
 ### Architecture layers
